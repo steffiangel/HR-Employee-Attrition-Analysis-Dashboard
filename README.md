@@ -39,7 +39,7 @@ Employee attrition creates significant costs related to recruitment, onboarding,
 
 ## Dashboard Preview
 ### Attrition Analysis
-![Attrition Analysis](<img width="1324" height="737" alt="attrion" src="https://github.com/user-attachments/assets/4a235430-2bdd-4ad7-b275-aeed407ce7f7" />
+![Attrition Analysis](attrion.png
 )
 
 
