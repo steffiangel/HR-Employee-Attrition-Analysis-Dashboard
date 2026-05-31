@@ -24,16 +24,16 @@ Employee attrition creates significant costs related to recruitment, onboarding,
 
 ## Dashboard Highlights
 
-- Employee Attrition KPIs
-- Attrition by Age Group
+- Overall Employee Attrition & Retention Analysis
+- Age Group Attrition Analysis
+- Business Travel Impact on Attrition
+- Education Level Attrition Distribution
+- Overtime vs Attrition Analysis
+- Work-Life Balance Impact on Employee Turnover
+- Job Satisfaction & Attrition Analysis
 - Attrition by Job Role
-- Attrition by Education Level
-- Attrition by Business Travel Frequency
-- Attrition by Overtime Status
-- Work-Life Balance Analysis
-- Employee Satisfaction Metrics
-- Retention Rate Monitoring
-- Interactive Filters and Drill-Through Analysis
+- Employee Tenure & Retention Analysis
+- Interactive HR KPI Monitoring
 
 ---
 
