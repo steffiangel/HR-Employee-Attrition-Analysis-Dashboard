@@ -1,53 +1,111 @@
-Project Overview
+# HR Employee Attrition Analysis Dashboard
 
-This project analyzes employee attrition patterns using the IBM HR Analytics dataset and Power BI. The objective is to identify demographic, behavioral, and job-related factors influencing employee turnover and provide data-driven recommendations to improve workforce retention.
+## Overview
 
-Tools & Technologies
-Power BI
-DAX
-Data Modeling
-Data Visualization
-HR Analytics
-Business Objective
+This project analyzes employee attrition patterns using the IBM HR Analytics dataset in Power BI. The dashboard identifies key demographic, behavioral, and job-related factors contributing to workforce turnover and provides actionable insights to support employee retention strategies.
 
-Employee attrition can lead to increased recruitment costs, productivity loss, and disruption of organizational continuity. This dashboard helps stakeholders understand the primary drivers of employee turnover and identify high-risk employee segments for targeted retention strategies.
+---
 
-Dashboard Features
-Executive HR KPIs
-Attrition Rate Analysis
-Employee Demographics Analysis
-Job Role Attrition Insights
-Overtime Impact Assessment
-Work-Life Balance Evaluation
-Business Travel Analysis
-Retention & Satisfaction Metrics
-Interactive Filters and Drill-Down Visualizations
-Key Insights
-Employees aged 26–35 exhibit the highest attrition rates, indicating greater turnover among early-career professionals.
-Employees who frequently travel for business demonstrate significantly higher attrition risk.
-Bachelor's degree holders represent the largest share of employee departures.
-Employees working overtime show substantially higher turnover compared to those with balanced workloads.
-Work-life balance perception strongly impacts employee retention.
-Sales Executives and Research Scientists contribute the highest attrition volumes across job roles.
-Despite an overall retention rate of approximately 84%, the organization experiences a notable attrition rate of nearly 16%.
-Attrition is observed across both dissatisfied and highly satisfied employee groups, suggesting multiple contributing factors beyond job satisfaction alone.
-Strategic Recommendations
-Early-Career Development Programs
+## Tools & Technologies
 
-Implement structured career progression plans, mentorship opportunities, and skill-development initiatives for employees in the 26–35 age group.
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+- HR Analytics
 
-Overtime Monitoring & Workload Management
+---
 
-Monitor employee workloads and reduce excessive overtime through resource balancing and flexible work arrangements.
+## Business Problem
 
-Role-Specific Retention Strategies
+Employee attrition creates significant costs related to recruitment, onboarding, productivity loss, and knowledge transfer. This dashboard helps organizations understand the factors driving employee turnover and identify areas requiring retention-focused interventions.
 
-Develop targeted retention programs for high-risk roles such as Sales Executives and Research Scientists through career growth opportunities, recognition programs, and tailored incentives.
+---
 
-Business Travel Optimization
+## Dashboard Highlights
 
-Review travel requirements and introduce flexible work policies to improve employee well-being and reduce turnover among frequent travelers.
+- Employee Attrition KPIs
+- Attrition by Age Group
+- Attrition by Job Role
+- Attrition by Education Level
+- Attrition by Business Travel Frequency
+- Attrition by Overtime Status
+- Work-Life Balance Analysis
+- Employee Satisfaction Metrics
+- Retention Rate Monitoring
+- Interactive Filters and Drill-Through Analysis
 
-Project Outcomes
+---
 
-This analysis demonstrates how HR analytics can be leveraged to uncover workforce trends, identify attrition drivers, and support strategic decision-making through interactive Power BI dashboards.
+## Key Findings
+
+### Age-Based Attrition
+Employees aged **26–35** experience the highest attrition levels, indicating increased mobility among early-career professionals.
+
+### Business Travel Impact
+Employees who travel frequently for business demonstrate significantly higher attrition rates compared to non-traveling employees.
+
+### Education Analysis
+Employees holding a **Bachelor's Degree** account for the largest proportion of attrition cases.
+
+### Overtime Effect
+Employees working overtime exhibit substantially higher turnover, suggesting workload pressure and burnout as major contributors to attrition.
+
+### Work-Life Balance
+Work-life balance perceptions have a strong influence on employee retention, with lower ratings associated with increased attrition risk.
+
+### Job Role Analysis
+**Sales Executives** and **Research Scientists** contribute the highest attrition volumes, highlighting the need for role-specific retention strategies.
+
+### Overall Workforce Retention
+The organization maintains an overall retention rate of approximately **84%**, while experiencing an attrition rate of nearly **16%**.
+
+---
+
+## Recommendations
+
+### 1. Early-Career Development Programs
+Implement structured career development pathways, mentorship programs, and promotion frameworks for employees aged 26–35.
+
+### 2. Overtime Monitoring
+Monitor workload distribution and reduce excessive overtime through resource planning and flexible work arrangements.
+
+### 3. Role-Specific Retention Strategies
+Design tailored retention initiatives for Sales Executives and Research Scientists, including career growth opportunities and performance-based incentives.
+
+### 4. Business Travel Optimization
+Review travel requirements and introduce flexible work policies to improve employee well-being and long-term retention.
+
+---
+
+## Business Impact
+
+This project demonstrates how HR analytics can be leveraged to:
+
+- Identify key drivers of employee turnover
+- Improve workforce planning
+- Support data-driven HR decision-making
+- Enhance employee retention strategies
+- Reduce attrition-related organizational costs
+
+---
+
+## Dataset
+
+IBM HR Analytics Employee Attrition & Performance Dataset
+
+Source: Kaggle
+
+---
+
+## Dashboard Preview
+### Attrition Analysis
+![Attrition Analysis](<img width="1324" height="737" alt="attrion" src="https://github.com/user-attachments/assets/4a235430-2bdd-4ad7-b275-aeed407ce7f7" />
+)
+
+
+## Author
+
+Steffi Angel
+
+Power BI | Data Analytics | Business Intelligence
